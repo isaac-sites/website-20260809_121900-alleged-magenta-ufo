@@ -1,0 +1,2904 @@
+{
+  "generated_at": "2026-08-09T12:04:34",
+  "passed": true,
+  "baseline": {
+    "article_pages": 238,
+    "amazon_specific_pages": 201,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Alleged_Magenta_ufo_7bc4e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_italian_war_end_mate_e36bef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_magenta_chain_custod_1cb433": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_magenta_physical_evi_4abf09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_oss_magenta_files_4c74ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_vatican_roosevelt_cl_298732": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_vergiate_allied_capt_a9fdc0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_garavaglia_magenta_t_4ecb09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_lost_newspaper_dossi_72ee5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_magenta_1936_to_1933_242b26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_magenta_1996_consign_195ddc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_magenta_originals_vs_1e6562": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_mr_x_magenta_claims_43d74d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_agenzia_stefani_role_c63624": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_fascist_office_proce_64ec1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_rs33_archive_verific_18ed32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_rs33_office_identity_e0ca63": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_rs33_telegram_format_1c9842": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_secrecy_handling_rul_42933c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_claim_verification_b08c2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_document_authenticat_1ab9aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_ink_alterations_1c8740": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_magenta_provenance_72f5d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_paper_testing_limits_05e5b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_testing_records_772e1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_fascist_censorship_l_099611": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_fascist_military_sec_6289ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_italian_archive_sear_3f546f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_magenta_confirmation_73102f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_magenta_document_pro_8c072d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_secrecy_fallacy_reas_233e02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_fascist_secrecy_rs33_033716": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_marconi_rs33_role_e8ad02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_anonymous_paper_f75674": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_membership_list_4fe88b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_missing_records_b9d5b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_reverse_enginee_46cad1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_aaro_crash_review_7b13c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_grusch_congress_clai_35db11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_grusch_magenta_evide_341884": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_interview_vs_testimo_39e065": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_magenta_custody_147c45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_magenta_verification_a4c568": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_aaro_magenta_review_097470": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_grusch_congress_test_93606d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_grusch_magenta_evide_341884": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_magenta_1933_timelin_ab25b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_magenta_documents_7fb669": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_us_magenta_transfer_f2d2ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_axis_cooperation_lim_f08c52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_german_inspection_cl_c8290c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_german_intelligence_ee9ae6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_italian_german_tech_10bb76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_nazi_intelligence_pr_fd715b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_rs33_german_link_16c6f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_cylindrical_craft_sk_c5e7c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_magenta_bell_shape_bfbce1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_magenta_disc_descrip_56aa00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_retelling_shape_chan_740e5e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_shape_evidence_gap_c66e1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_unknown_aircraft_wor_7fcffa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_11_april_dat_673e49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_11_june_theo_274b52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_13_june_date_7be140": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_june_telegra_3c12ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_source_drift_1f09e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_vergiate_loc_bf849a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_grusch_magenta_reviv_8e35bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_document_deb_5ae81b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_narrative_ex_643ea7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_pre_roswell_d1503e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_uap_visibili_be0339": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_researcher_response_02fd19": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_1933_newspaper_cover_0ab6e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_magenta_timeline_3d7ff6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_grusch_bodies_claims_6e8f29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_magenta_biological_p_42726c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_magenta_crash_compar_3a6b1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_magenta_occupant_rec_6ee71d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_magenta_story_expans_2a77de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_object_vs_occupants_932583": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_calvine_photo_compar_0ebf0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_custody_gaps_40b539": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_documents_vs_2365cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_photo_standa_791f4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_photo_trail_ddeec6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_reconstructi_700eab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_anonymous_source_cre_c2019c": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_fascist_archive_link_8d935c": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_magenta_corroboratio_3bd161": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_magenta_custody_hist_996f2a": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_material_testing_deb_33796c": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_rs33_authenticity_tr_e7be18": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_marconi_role_claims_b74620": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_material_testing_cla_86f97f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_missing_experiment_r_33711d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_propulsion_research_aec823": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_rs33_reverse_enginee_89abfc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_weapon_application_c_faaa97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_between_magenta_verg_e2b2fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_magenta_exact_site_v_a6ecd8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_near_magenta_locatio_60649e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_sesto_calende_vergia_723dec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_vergiate_hangars_193_518dac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_vergiate_storage_not_b2a9d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_cun_narrative_format_379378": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_family_witness_claim_0040e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_grusch_magenta_atten_cb499e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_magenta_corroboratio_1d8bfa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_magenta_secrecy_clai_2fba7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_magenta_witness_gap_39a76f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_cavazzani_de_cd6e94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_death_ray_rs_f360d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_extraterrest_79536e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_family_rs33_b2ce82": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_fascist_offi_745743": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_fermi_rs33_l_2cb3bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_custody_trai_16635c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_documents_7fb669": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_evidence_gap_379109": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_material_tes_33d902": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_rs33_artefact_87a2bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_vergiate_storage_cla_22c17f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_magenta_custody_chai_5637b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_mister_x_identity_e3a8d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_mister_x_secrecy_5a2e21": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_paper_age_tests_73e672": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_rs33_arrival_timelin_c14107": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_verification_paths_4d60b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_magenta_secrecy_mark_8f3c59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_mussolini_missing_re_6835ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_mussolini_press_offi_4c969d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_mussolini_secrecy_te_007ee6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_ovra_magenta_secrecy_5317cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_stefani_magenta_supp_4b1643": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_aaro_recovered_mater_30aaf7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_biologics_definition_9109be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_grusch_biologics_cla_774cd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_magenta_body_claims_28508b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_magenta_evidence_gap_1b0a23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_magenta_story_layers_908886": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_fascist_italy_vatica_b54e9f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_grusch_vatican_claim_133bdd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_holy_see_channels_116d65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_magenta_transfer_cha_5bf449": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_pius_xii_diplomacy_1cc68f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_vatican_archives_mag_b66c39": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_cun_pinotti_platform_4b9469": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_pinotti_2000_press_454d43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_pinotti_2001_book_7c827b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_pinotti_authenticati_a42d05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_pinotti_magazine_rel_27b6e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_pinotti_tg3_roswell_8fe27f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_fascist_archive_sear_981fab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_rs33_confirmation_ga_b61993": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_rs33_document_origin_fafe36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_rs33_secrecy_debate_34dd98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_rs33_state_footprint_7ad926": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_wartime_lost_archive_bbd510": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_allied_archive_trace_eeb780": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_military_intelligenc_17d5f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_object_custody_recor_6837b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_rs33_document_proven_313045": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_secret_budget_trails_db5cfa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_siai_marchetti_recor_4a502b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_sesto_vs_vergiate_299d3c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_vergiate_1933_timing_9d4fde": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_vergiate_1943_fire_a63c89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_vergiate_bombing_cla_9bafc9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_vergiate_claim_origi_d27e81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_wartime_vergiate_sit_f389ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_evidence_chain_c7846b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_grusch_vatican_ce957f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_pius_xii_claim_a20651": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_us_transfer_records_950cbc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_vatican_archives_c25d10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_vatican_diplomacy_1e52a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Alleged_Magenta_ufo_7bc4e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_italian_war_end_mate_e36bef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_magenta_chain_custod_1cb433": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_magenta_physical_evi_4abf09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_oss_magenta_files_4c74ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_vatican_roosevelt_cl_298732": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_vergiate_allied_capt_a9fdc0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_garavaglia_magenta_t_4ecb09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_lost_newspaper_dossi_72ee5c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_magenta_1936_to_1933_242b26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_magenta_1996_consign_195ddc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_magenta_originals_vs_1e6562": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_mr_x_magenta_claims_43d74d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_agenzia_stefani_role_c63624": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_fascist_office_proce_64ec1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_rs33_archive_verific_18ed32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_rs33_office_identity_e0ca63": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_rs33_telegram_format_1c9842": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_secrecy_handling_rul_42933c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_claim_verification_b08c2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_document_authenticat_1ab9aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_ink_alterations_1c8740": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_magenta_provenance_72f5d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_paper_testing_limits_05e5b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_testing_records_772e1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_fascist_censorship_l_099611": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_fascist_military_sec_6289ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_italian_archive_sear_3f546f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_magenta_confirmation_73102f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_magenta_document_pro_8c072d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_secrecy_fallacy_reas_233e02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_fascist_secrecy_rs33_033716": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_marconi_rs33_role_e8ad02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_anonymous_paper_f75674": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_membership_list_4fe88b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_missing_records_b9d5b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_reverse_enginee_46cad1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_aaro_crash_review_7b13c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_grusch_congress_clai_35db11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_grusch_magenta_evide_341884": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_interview_vs_testimo_39e065": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_magenta_custody_147c45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_magenta_verification_a4c568": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_aaro_magenta_review_097470": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_grusch_congress_test_93606d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_grusch_magenta_evide_341884": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_magenta_1933_timelin_ab25b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_magenta_documents_7fb669": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_us_magenta_transfer_f2d2ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_axis_cooperation_lim_f08c52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_german_inspection_cl_c8290c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_german_intelligence_ee9ae6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_italian_german_tech_10bb76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_nazi_intelligence_pr_fd715b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_rs33_german_link_16c6f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_cylindrical_craft_sk_c5e7c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_magenta_bell_shape_bfbce1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_magenta_disc_descrip_56aa00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_retelling_shape_chan_740e5e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_shape_evidence_gap_c66e1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_unknown_aircraft_wor_7fcffa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_11_april_dat_673e49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_11_june_theo_274b52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_13_june_date_7be140": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_june_telegra_3c12ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_source_drift_1f09e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_vergiate_loc_bf849a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_grusch_magenta_reviv_8e35bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_document_deb_5ae81b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_narrative_ex_643ea7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_pre_roswell_d1503e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_uap_visibili_be0339": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_researcher_response_02fd19": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_1930s_technology_con_c4dfe5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_1933_newspaper_cover_0ab6e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_magenta_evidence_gap_1b0a23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_magenta_timeline_3d7ff6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_scientific_review_fr_89521d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_witness_memory_chang_e14c1c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_grusch_bodies_claims_6e8f29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_magenta_biological_p_42726c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_magenta_crash_compar_3a6b1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_magenta_occupant_rec_6ee71d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_magenta_story_expans_2a77de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_object_vs_occupants_932583": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_calvine_photo_compar_0ebf0e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_custody_gaps_40b539": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_documents_vs_2365cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_photo_standa_791f4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_photo_trail_ddeec6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_reconstructi_700eab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_anonymous_source_cre_c2019c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_fascist_archive_link_8d935c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_magenta_corroboratio_3bd161": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_magenta_custody_hist_996f2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_material_testing_deb_33796c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_rs33_authenticity_tr_e7be18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_marconi_role_claims_b74620": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_material_testing_cla_86f97f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_missing_experiment_r_33711d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_propulsion_research_aec823": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_rs33_reverse_enginee_89abfc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_weapon_application_c_faaa97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_between_magenta_verg_e2b2fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_magenta_exact_site_v_a6ecd8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_near_magenta_locatio_60649e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_sesto_calende_vergia_723dec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_vergiate_hangars_193_518dac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_vergiate_storage_not_b2a9d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_cun_narrative_format_379378": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_family_witness_claim_0040e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_grusch_magenta_atten_cb499e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_magenta_corroboratio_1d8bfa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_magenta_secrecy_clai_2fba7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2_magenta_witness_gap_39a76f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_cavazzani_de_cd6e94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_death_ray_rs_f360d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_extraterrest_79536e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_family_rs33_b2ce82": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_fascist_offi_745743": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_fermi_rs33_l_2cb3bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_custody_trai_16635c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_documents_7fb669": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_evidence_gap_379109": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_material_tes_33d902": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_rs33_artefact_87a2bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_vergiate_storage_cla_22c17f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_magenta_custody_chai_5637b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_mister_x_identity_e3a8d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_mister_x_secrecy_5a2e21": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_paper_age_tests_73e672": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_rs33_arrival_timelin_c14107": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_verification_paths_4d60b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_magenta_secrecy_mark_8f3c59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_mussolini_missing_re_6835ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_mussolini_press_offi_4c969d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_mussolini_secrecy_te_007ee6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_ovra_magenta_secrecy_5317cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_stefani_magenta_supp_4b1643": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_aaro_recovered_mater_30aaf7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_biologics_definition_9109be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_grusch_biologics_cla_774cd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_magenta_body_claims_28508b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_magenta_evidence_gap_1b0a23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59_magenta_story_layers_908886": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_fascist_italy_vatica_b54e9f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_grusch_vatican_claim_133bdd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_holy_see_channels_116d65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_magenta_transfer_cha_5bf449": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_pius_xii_diplomacy_1cc68f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575_vatican_archives_mag_b66c39": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_cun_pinotti_platform_4b9469": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_pinotti_2000_press_454d43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_pinotti_2001_book_7c827b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_pinotti_authenticati_a42d05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_pinotti_magazine_rel_27b6e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa_pinotti_tg3_roswell_8fe27f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_fascist_archive_sear_981fab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_rs33_confirmation_ga_b61993": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_rs33_document_origin_fafe36": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_rs33_secrecy_debate_34dd98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_rs33_state_footprint_7ad926": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_wartime_lost_archive_bbd510": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_allied_archive_trace_eeb780": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_military_intelligenc_17d5f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_object_custody_recor_6837b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_rs33_document_proven_313045": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_secret_budget_trails_db5cfa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e_siai_marchetti_recor_4a502b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_sesto_vs_vergiate_299d3c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_vergiate_1933_timing_9d4fde": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_vergiate_1943_fire_a63c89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_vergiate_bombing_cla_9bafc9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_vergiate_claim_origi_d27e81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64_wartime_vergiate_sit_f389ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_evidence_chain_c7846b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_grusch_vatican_ce957f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_pius_xii_claim_a20651": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_us_transfer_records_950cbc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_vatican_archives_c25d10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_vatican_diplomacy_1e52a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 238,
+  "regressions": []
+}

@@ -1,0 +1,2491 @@
+{
+  "generated_at_utc": "2026-08-09T11:04:31.244478Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1776,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "visible_pages_without_inline_outbound_links": 0,
+    "average_inline_inbound_links_per_visible_page": 8.42,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 211,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9",
+        "title": "Alleged Magenta UFO",
+        "permalink": "/alleged-magenta-ufo/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "title": "US Transfer",
+        "permalink": "/us-transfer/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_italian_war_end_mate_e36bef",
+        "title": "Italian War End",
+        "permalink": "/italian-war-end/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_magenta_chain_custod_1cb433",
+        "title": "Chain Of Custody",
+        "permalink": "/chain-of-custody-862654/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_magenta_physical_evi_4abf09",
+        "title": "Physical Evidence",
+        "permalink": "/physical-evidence/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_oss_magenta_files_4c74ec",
+        "title": "Intelligence Files",
+        "permalink": "/intelligence-files/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_vatican_roosevelt_cl_298732",
+        "title": "Vatican Link",
+        "permalink": "/vatican-link/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_vergiate_allied_capt_a9fdc0",
+        "title": "Vergiate Capture",
+        "permalink": "/vergiate-capture/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "title": "Anonymous Papers",
+        "permalink": "/anonymous-papers/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_garavaglia_magenta_t_4ecb09",
+        "title": "Forensic Tests",
+        "permalink": "/forensic-tests/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_lost_newspaper_dossi_72ee5c",
+        "title": "Lost Dossier",
+        "permalink": "/lost-dossier/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_magenta_1936_to_1933_242b26",
+        "title": "1936 To 1933",
+        "permalink": "/1936-to-1933/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_magenta_1996_consign_195ddc",
+        "title": "1996 Packets",
+        "permalink": "/1996-packets/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_magenta_originals_vs_1e6562",
+        "title": "Originals vs Copies",
+        "permalink": "/originals-vs-copies/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_mr_x_magenta_claims_43d74d",
+        "title": "Mr X",
+        "permalink": "/mr-x/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "title": "Paperwork Flaws",
+        "permalink": "/paperwork-flaws/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_agenzia_stefani_role_c63624",
+        "title": "Stefani References",
+        "permalink": "/stefani-references/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_fascist_office_proce_64ec1e",
+        "title": "Office Procedures",
+        "permalink": "/office-procedures/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_rs33_archive_verific_18ed32",
+        "title": "Archive Trail",
+        "permalink": "/archive-trail/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_rs33_office_identity_e0ca63",
+        "title": "Office Identity",
+        "permalink": "/office-identity/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_rs33_telegram_format_1c9842",
+        "title": "Telegram Format",
+        "permalink": "/telegram-format/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_secrecy_handling_rul_42933c",
+        "title": "Secrecy Rules",
+        "permalink": "/secrecy-rules/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "title": "Material Tests",
+        "permalink": "/material-tests/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_claim_verification_b08c2e",
+        "title": "Claim Verification",
+        "permalink": "/claim-verification/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_document_authenticat_1ab9aa",
+        "title": "Authentication",
+        "permalink": "/authentication/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_ink_alterations_1c8740",
+        "title": "Ink Analysis",
+        "permalink": "/ink-analysis/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_magenta_provenance_72f5d4",
+        "title": "Provenance Gaps",
+        "permalink": "/provenance-gaps/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_paper_testing_limits_05e5b9",
+        "title": "Paper Testing",
+        "permalink": "/paper-testing/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_testing_records_772e1e",
+        "title": "Testing Records",
+        "permalink": "/testing-records/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "title": "Secrecy Logic",
+        "permalink": "/secrecy-logic/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_fascist_censorship_l_099611",
+        "title": "Censorship Limits",
+        "permalink": "/censorship-limits/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_fascist_military_sec_6289ed",
+        "title": "Military Secrecy",
+        "permalink": "/military-secrecy/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_italian_archive_sear_3f546f",
+        "title": "Archive Search",
+        "permalink": "/archive-search-30e573/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_magenta_confirmation_73102f",
+        "title": "Magenta Claims",
+        "permalink": "/magenta-claims/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_magenta_document_pro_8c072d",
+        "title": "Document Provenance",
+        "permalink": "/document-provenance/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_secrecy_fallacy_reas_233e02",
+        "title": "Secrecy Fallacy",
+        "permalink": "/secrecy-fallacy/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "title": "RS 33",
+        "permalink": "/rs-33/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_fascist_secrecy_rs33_033716",
+        "title": "Secrecy System",
+        "permalink": "/secrecy-system/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_marconi_rs33_role_e8ad02",
+        "title": "Marconi",
+        "permalink": "/marconi-16e370/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_anonymous_paper_f75674",
+        "title": "Anonymous Papers",
+        "permalink": "/anonymous-papers-c984ea/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_membership_list_4fe88b",
+        "title": "Member List",
+        "permalink": "/member-list/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_missing_records_b9d5b3",
+        "title": "Missing Records",
+        "permalink": "/missing-records/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_reverse_enginee_46cad1",
+        "title": "Mission Drift",
+        "permalink": "/mission-drift/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "title": "Interview vs Oath",
+        "permalink": "/interview-vs-oath/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_aaro_crash_review_7b13c1",
+        "title": "AARO Review",
+        "permalink": "/aaro-review/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_grusch_congress_clai_35db11",
+        "title": "Congress Testimony",
+        "permalink": "/congress-testimony/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_grusch_magenta_evide_341884",
+        "title": "Magenta Claims",
+        "permalink": "/magenta-claims-cdd453/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_interview_vs_testimo_39e065",
+        "title": "Interview vs Hearing",
+        "permalink": "/interview-vs-hearing/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_magenta_custody_147c45",
+        "title": "Chain of Custody",
+        "permalink": "/chain-of-custody/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04_magenta_verification_a4c568",
+        "title": "Myth vs Proof",
+        "permalink": "/myth-vs-proof/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "title": "Grusch Claim",
+        "permalink": "/grusch-claim/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_aaro_magenta_review_097470",
+        "title": "AARO Review",
+        "permalink": "/aaro-review-09b25f/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_grusch_congress_test_93606d",
+        "title": "Congress Testimony",
+        "permalink": "/congress-testimony-0fbb98/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_grusch_magenta_evide_341884",
+        "title": "Evidence Trail",
+        "permalink": "/evidence-trail/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_magenta_1933_timelin_ab25b4",
+        "title": "1933 Timeline",
+        "permalink": "/1933-timeline/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_magenta_documents_7fb669",
+        "title": "Italian Papers",
+        "permalink": "/italian-papers/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_us_magenta_transfer_f2d2ca",
+        "title": "US Transfer Claim",
+        "permalink": "/us-transfer-claim/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "title": "German Links",
+        "permalink": "/german-links/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_axis_cooperation_lim_f08c52",
+        "title": "Axis Cooperation",
+        "permalink": "/axis-cooperation/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_german_inspection_cl_c8290c",
+        "title": "Inspection Claims",
+        "permalink": "/inspection-claims/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_german_intelligence_ee9ae6",
+        "title": "German Contacts",
+        "permalink": "/german-contacts/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_italian_german_tech_10bb76",
+        "title": "Tech Exchanges",
+        "permalink": "/tech-exchanges/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_nazi_intelligence_pr_fd715b",
+        "title": "Nazi Intelligence",
+        "permalink": "/nazi-intelligence/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_rs33_german_link_16c6f8",
+        "title": "RS 33 Link",
+        "permalink": "/rs-33-link/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "title": "Craft Shape",
+        "permalink": "/craft-shape/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_cylindrical_craft_sk_c5e7c0",
+        "title": "Cylinder Sketches",
+        "permalink": "/cylinder-sketches/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_magenta_bell_shape_bfbce1",
+        "title": "Bell Shape",
+        "permalink": "/bell-shape/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_magenta_disc_descrip_56aa00",
+        "title": "Disc Version",
+        "permalink": "/disc-version/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_retelling_shape_chan_740e5e",
+        "title": "Retelling Changes",
+        "permalink": "/retelling-changes/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_shape_evidence_gap_c66e1a",
+        "title": "Shape Evidence",
+        "permalink": "/shape-evidence/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_unknown_aircraft_wor_7fcffa",
+        "title": "Unknown Aircraft",
+        "permalink": "/unknown-aircraft/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "title": "Crash Timeline",
+        "permalink": "/crash-timeline/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_11_april_dat_673e49",
+        "title": "11 April",
+        "permalink": "/11-april/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_11_june_theo_274b52",
+        "title": "11 June Theory",
+        "permalink": "/11-june-theory/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_13_june_date_7be140",
+        "title": "13 June",
+        "permalink": "/13-june/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_june_telegra_3c12ef",
+        "title": "June Telegrams",
+        "permalink": "/june-telegrams/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_source_drift_1f09e0",
+        "title": "Source Drift",
+        "permalink": "/source-drift/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_vergiate_loc_bf849a",
+        "title": "Crash Location",
+        "permalink": "/crash-location-14ac00/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646",
+        "title": "Modern Revival",
+        "permalink": "/modern-revival/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_grusch_magenta_reviv_8e35bd",
+        "title": "Grusch Impact",
+        "permalink": "/grusch-impact/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_document_deb_5ae81b",
+        "title": "Document Debate",
+        "permalink": "/document-debate/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_narrative_ex_643ea7",
+        "title": "Narrative Expansion",
+        "permalink": "/narrative-expansion/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_pre_roswell_d1503e",
+        "title": "Pre Roswell Claim",
+        "permalink": "/pre-roswell-claim/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_uap_visibili_be0339",
+        "title": "Public Visibility",
+        "permalink": "/public-visibility/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_researcher_response_02fd19",
+        "title": "Research Response",
+        "permalink": "/research-response/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f",
+        "title": "Needed Evidence",
+        "permalink": "/needed-evidence/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_1930s_technology_con_c4dfe5",
+        "title": "Technology Context",
+        "permalink": "/technology-context/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_1933_newspaper_cover_0ab6e0",
+        "title": "Newspapers",
+        "permalink": "/newspapers/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_magenta_evidence_gap_1b0a23",
+        "title": "Evidence Gaps",
+        "permalink": "/evidence-gaps/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_magenta_timeline_3d7ff6",
+        "title": "Timeline",
+        "permalink": "/timeline/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_scientific_review_fr_89521d",
+        "title": "Review Standards",
+        "permalink": "/review-standards/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_witness_memory_chang_e14c1c",
+        "title": "Witness Memory",
+        "permalink": "/witness-memory/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9",
+        "title": "Occupant Claims",
+        "permalink": "/occupant-claims/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_grusch_bodies_claims_6e8f29",
+        "title": "Grusch Comments",
+        "permalink": "/grusch-comments/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_magenta_biological_p_42726c",
+        "title": "Proof Standards",
+        "permalink": "/proof-standards/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_magenta_crash_compar_3a6b1a",
+        "title": "Crash Comparisons",
+        "permalink": "/crash-comparisons/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_magenta_occupant_rec_6ee71d",
+        "title": "Evidence Gaps",
+        "permalink": "/evidence-gaps-68dd38/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_magenta_story_expans_2a77de",
+        "title": "Story Expansion",
+        "permalink": "/story-expansion/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9_object_vs_occupants_932583",
+        "title": "Claim Layers",
+        "permalink": "/claim-layers/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5",
+        "title": "Photographs",
+        "permalink": "/photographs/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_calvine_photo_compar_0ebf0e",
+        "title": "Calvine Comparison",
+        "permalink": "/calvine-comparison/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_custody_gaps_40b539",
+        "title": "Custody Gaps",
+        "permalink": "/custody-gaps/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_documents_vs_2365cc",
+        "title": "Document Images",
+        "permalink": "/document-images/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_photo_standa_791f4d",
+        "title": "Discovery Standards",
+        "permalink": "/discovery-standards/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_photo_trail_ddeec6",
+        "title": "Photo Trail",
+        "permalink": "/photo-trail/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_reconstructi_700eab",
+        "title": "Reconstructions",
+        "permalink": "/reconstructions/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "title": "Provenance",
+        "permalink": "/provenance/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_anonymous_source_cre_c2019c",
+        "title": "Anonymous Source",
+        "permalink": "/anonymous-source/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_fascist_archive_link_8d935c",
+        "title": "Archive Links",
+        "permalink": "/archive-links/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_magenta_corroboratio_3bd161",
+        "title": "Independent Evidence",
+        "permalink": "/independent-evidence/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_magenta_custody_hist_996f2a",
+        "title": "Custody History",
+        "permalink": "/custody-history/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_material_testing_deb_33796c",
+        "title": "Material Tests",
+        "permalink": "/material-tests-b6110a/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_rs33_authenticity_tr_e7be18",
+        "title": "RS 33 Trail",
+        "permalink": "/rs-33-trail/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b",
+        "title": "Tech Claims",
+        "permalink": "/tech-claims/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_marconi_role_claims_b74620",
+        "title": "Marconi Claims",
+        "permalink": "/marconi-claims/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_material_testing_cla_86f97f",
+        "title": "Material Claims",
+        "permalink": "/material-claims/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_missing_experiment_r_33711d",
+        "title": "Missing Evidence",
+        "permalink": "/missing-evidence/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_propulsion_research_aec823",
+        "title": "Propulsion Claims",
+        "permalink": "/propulsion-claims/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_rs33_reverse_enginee_89abfc",
+        "title": "RS 33 Research",
+        "permalink": "/rs-33-research/"
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_weapon_application_c_faaa97",
+        "title": "Weapon Claims",
+        "permalink": "/weapon-claims/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_documents_7fb669",
+        "title": "Documents",
+        "permalink": "/documents/",
+        "inline_inbound_count": 170
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "title": "Mussolini",
+        "permalink": "/mussolini/",
+        "inline_inbound_count": 163
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "title": "RS 33",
+        "permalink": "/rs-33/",
+        "inline_inbound_count": 133
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "title": "Pinotti",
+        "permalink": "/pinotti/",
+        "inline_inbound_count": 126
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "title": "Provenance",
+        "permalink": "/provenance/",
+        "inline_inbound_count": 124
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_narrative_ex_643ea7",
+        "title": "Narrative Expansion",
+        "permalink": "/narrative-expansion/",
+        "inline_inbound_count": 90
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_near_magenta_locatio_60649e",
+        "title": "Near Magenta",
+        "permalink": "/near-magenta/",
+        "inline_inbound_count": 65
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9",
+        "title": "Alleged Magenta UFO",
+        "permalink": "/alleged-magenta-ufo/",
+        "inline_inbound_count": 60
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_magenta_physical_evi_4abf09",
+        "title": "Physical Evidence",
+        "permalink": "/physical-evidence/",
+        "inline_inbound_count": 54
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5",
+        "title": "Photographs",
+        "permalink": "/photographs/",
+        "inline_inbound_count": 48
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 45
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_anonymous_source_cre_c2019c",
+        "title": "Anonymous Source",
+        "permalink": "/anonymous-source/",
+        "inline_inbound_count": 44
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_evidence_gap_379109",
+        "title": "Evidence Gap",
+        "permalink": "/evidence-gap/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_document_authenticat_1ab9aa",
+        "title": "Authentication",
+        "permalink": "/authentication/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_unknown_aircraft_wor_7fcffa",
+        "title": "Unknown Aircraft",
+        "permalink": "/unknown-aircraft/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_1933_newspaper_cover_0ab6e0",
+        "title": "Newspapers",
+        "permalink": "/newspapers/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_13_june_date_7be140",
+        "title": "13 June",
+        "permalink": "/13-june/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_magenta_timeline_3d7ff6",
+        "title": "Timeline",
+        "permalink": "/timeline/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_rs33_reverse_enginee_89abfc",
+        "title": "RS 33 Research",
+        "permalink": "/rs-33-research/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575",
+        "title": "Pius XII",
+        "permalink": "/pius-xii/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_magenta_corroboratio_3bd161",
+        "title": "Independent Evidence",
+        "permalink": "/independent-evidence/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "title": "Mister X",
+        "permalink": "/mister-x/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_vatican_archives_c25d10",
+        "title": "Archive Search",
+        "permalink": "/archive-search/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_magenta_custody_hist_996f2a",
+        "title": "Custody History",
+        "permalink": "/custody-history/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_material_testing_deb_33796c",
+        "title": "Material Tests",
+        "permalink": "/material-tests-b6110a/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_rs33_archive_verific_18ed32",
+        "title": "Archive Trail",
+        "permalink": "/archive-trail/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_sesto_calende_vergia_723dec",
+        "title": "Sesto Calende",
+        "permalink": "/sesto-calende/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b_missing_experiment_r_33711d",
+        "title": "Missing Evidence",
+        "permalink": "/missing-evidence/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_grusch_magenta_evide_341884",
+        "title": "Evidence Trail",
+        "permalink": "/evidence-trail/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_ink_alterations_1c8740",
+        "title": "Ink Analysis",
+        "permalink": "/ink-analysis/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_vergiate_hangars_193_518dac",
+        "title": "1933 Hangars",
+        "permalink": "/1933-hangars/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_death_ray_rs_f360d1",
+        "title": "Death Ray",
+        "permalink": "/death-ray/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "title": "US Transfer",
+        "permalink": "/us-transfer/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_fascist_censorship_l_099611",
+        "title": "Censorship Limits",
+        "permalink": "/censorship-limits/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_11_april_dat_673e49",
+        "title": "11 April",
+        "permalink": "/11-april/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5_magenta_reconstructi_700eab",
+        "title": "Reconstructions",
+        "permalink": "/reconstructions/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64",
+        "title": "Vergiate Works",
+        "permalink": "/vergiate-works/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_vatican_diplomacy_1e52a3",
+        "title": "Diplomatic Position",
+        "permalink": "/diplomatic-position/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_mr_x_magenta_claims_43d74d",
+        "title": "Mr X",
+        "permalink": "/mr-x/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_document_deb_5ae81b",
+        "title": "Document Debate",
+        "permalink": "/document-debate/",
+        "inline_inbound_count": 6
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_index",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "parent"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_fascist_secrecy_rs33_033716",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_index",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_marconi_rs33_role_e8ad02",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_anonymous_paper_f75674",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_membership_list_4fe88b",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_missing_records_b9d5b3",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_rs33_reverse_enginee_46cad1",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "parent"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_fascist_archive_sear_981fab",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_index",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_rs33_confirmation_ga_b61993",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_rs33_document_origin_fafe36",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_rs33_secrecy_debate_34dd98",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_rs33_state_footprint_7ad926",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85_wartime_lost_archive_bbd510",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "parent"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_index",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_cavazzani_de_cd6e94",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_death_ray_rs_f360d1",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_extraterrest_79536e",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_family_rs33_b2ce82",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_fascist_offi_745743",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_fermi_rs33_l_2cb3bd",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "parent"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_siai_marchetti_vergi_6d0a64",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_index",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_magenta_custody_chai_5637b5",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_mister_x_identity_e3a8d4",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_mister_x_secrecy_5a2e21",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_paper_age_tests_73e672",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_rs33_arrival_timelin_c14107",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_verification_paths_4d60b3",
+        "type": "child"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "parent"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_occupant_cla_050fb9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "sibling"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_technology_e_331c0b",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_vatican_archives_c25d10",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_document_authenticat_1ab9aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_fascist_censorship_l_099611",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_death_ray_rs_f360d1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_documents_7fb669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_magenta_documents_7fb669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_documents_7fb669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_evidence_gap_379109",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_cavazzani_de_cd6e94",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_death_ray_rs_f360d1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775_marconi_fascist_offi_745743",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_paper_age_tests_73e672",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_anonymous_source_cre_c2019c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_narrative_ex_643ea7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_vatican_warning_clai_98dedd_vatican_archives_c25d10",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_narrative_ex_643ea7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_magenta_physical_evi_4abf09",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_anonymous_source_cre_c2019c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9_mr_x_magenta_claims_43d74d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_narrative_ex_643ea7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "to": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_documents_7fb669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_narrative_ex_643ea7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b_magenta_secrecy_mark_8f3c59",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13",
+        "to": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_rs33_telegram_format_1c9842",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mister_x_provenance_ec518f_paper_age_tests_73e672",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "to": "Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13_rs33_archive_verific_18ed32",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "to": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_document_authenticat_1ab9aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "to": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4_ink_alterations_1c8740",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c_fascist_censorship_l_099611",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_narrative_ex_643ea7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_fascist_secrecy_logi_d1d53c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf_fascist_secrecy_rs33_033716",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "to": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_documents_7fb669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646_magenta_narrative_ex_643ea7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "to": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_magenta_physical_evi_4abf09",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_magenta_timeline_3d7ff6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_witness_reco_6cd7f2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "to": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_documents_7fb669",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_vergiate_loc_bf849a_near_magenta_locatio_60649e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "to": "Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640_magenta_physical_evi_4abf09",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "to": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_axis_cooperation_lim_f08c52",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "to": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_german_intelligence_ee9ae6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "to": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_german_inspection_cl_c8290c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "to": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8_nazi_intelligence_pr_fd715b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_magenta_timeline_3d7ff6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_cylindrical_craft_sk_c5e7c0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_magenta_disc_descrip_56aa00",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_photograph_c_1473c5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_craft_descri_2bc20c_unknown_aircraft_wor_7fcffa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_11_april_dat_673e49",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb_magenta_13_june_date_7be140",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "to": "Alleged_Magenta_ufo_7bc4e9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "to": "Alleged_Magenta_ufo_7bc4e9_grusch_magenta_claim_5dc4ea_grusch_magenta_evide_341884",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "to": "Alleged_Magenta_ufo_7bc4e9_mussolini_secrecy_cl_b31c3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "to": "Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb",
+        "to": "Alleged_Magenta_ufo_7bc4e9_gabinetto_rs33_7ae6cf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646",
+        "to": "Alleged_Magenta_ufo_7bc4e9_magenta_provenance_s_880edc_anonymous_source_cre_c2019c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alleged_Magenta_ufo_7bc4e9_magenta_modern_reviv_14c646",
+        "to": "Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811_magenta_documents_7fb669",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}
