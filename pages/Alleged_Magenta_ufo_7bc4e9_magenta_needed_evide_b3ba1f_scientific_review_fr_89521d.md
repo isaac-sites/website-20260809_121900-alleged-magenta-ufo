@@ -295,6 +295,7 @@ next_link:
   short_title: Technology Context
   heading_title: Could 1930 s Technology Explain Magenta?
 date: '2026-08-09 12:02:03 '
+last_modified_at: '2026-08-09 12:02:03 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_scientific_review_fr_89521d-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_scientific_review_fr_89521d-Illustration-1.webp

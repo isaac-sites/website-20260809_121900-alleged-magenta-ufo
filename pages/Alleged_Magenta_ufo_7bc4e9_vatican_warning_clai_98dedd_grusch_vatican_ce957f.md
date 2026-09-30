@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 06:20:32'
+last_modified_at: '2026-08-09 06:20:32'
 parent_title: Did the Vatican Alert America About the Magenta Craft? | Alleged Magenta UFO
 parent_permalink: /vatican-claim/
 parent_nav_short_title: Vatican Claim

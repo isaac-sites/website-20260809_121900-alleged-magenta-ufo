@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-08 23:18:02'
+last_modified_at: '2026-08-08 23:18:02'
 parent_title: Where Did the Alleged Magenta Crash Happen? | Magenta UFO
 parent_permalink: /crash-location/
 parent_nav_short_title: Crash Location

@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-american/
 description: Focused pages that expand on US Transfer.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_american_acquisition_90f640
 parent_title: US Transfer | Alleged Magenta UFO

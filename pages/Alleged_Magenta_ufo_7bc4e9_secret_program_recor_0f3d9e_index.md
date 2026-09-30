@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-secret/
 description: Focused pages that expand on Expected Records.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_secret_program_recor_0f3d9e
 parent_title: Expected Records | Alleged Magenta UFO

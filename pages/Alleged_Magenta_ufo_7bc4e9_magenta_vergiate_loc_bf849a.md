@@ -254,6 +254,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-08 17:26:06'
+last_modified_at: '2026-08-08 17:26:06'
 parent_title: Magenta UFO
 parent_permalink: /alleged-magenta-ufo/
 parent_nav_short_title: Magenta UFO

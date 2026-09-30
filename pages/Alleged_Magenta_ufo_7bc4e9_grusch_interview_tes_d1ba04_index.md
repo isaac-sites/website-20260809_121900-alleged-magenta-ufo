@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-grusch/
 description: Focused pages that expand on Interview vs Oath.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_grusch_interview_tes_d1ba04
 parent_title: Interview vs Oath | Alleged Magenta UFO
