@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 02:56:51'
+last_modified_at: '2026-08-09 02:56:51'
 parent_title: Can Paper and Ink Tests Authenticate the Magenta Files? | Magenta UFO
 parent_permalink: /material-tests/
 parent_nav_short_title: Material Tests

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 07:24:27'
+last_modified_at: '2026-08-09 07:24:27'
 parent_title: What Did David Grusch Actually Say About Magenta? | Alleged Magenta UFO
 parent_permalink: /grusch-claim/
 parent_nav_short_title: Grusch Claim

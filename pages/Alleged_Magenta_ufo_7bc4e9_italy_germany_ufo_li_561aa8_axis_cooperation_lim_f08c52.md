@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 05:42:48'
+last_modified_at: '2026-08-09 05:42:48'
 parent_title: Did Nazi Germany Learn About the Magenta Object? | Magenta UFO
 parent_permalink: /german-links/
 parent_nav_short_title: German Links

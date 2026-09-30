@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-document/
 description: Focused pages that expand on Material Tests.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_document_material_te_d64da4
 parent_title: Material Tests | Alleged Magenta UFO

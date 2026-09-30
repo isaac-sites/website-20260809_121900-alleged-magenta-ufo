@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 08:15:07'
+last_modified_at: '2026-08-09 08:15:07'
 parent_title: How Did Magenta Become a Global UFO Story? | Magenta UFO
 parent_permalink: /modern-revival/
 parent_nav_short_title: Modern Revival

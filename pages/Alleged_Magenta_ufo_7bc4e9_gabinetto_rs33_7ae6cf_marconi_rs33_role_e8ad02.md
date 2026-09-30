@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-08 23:44:13'
+last_modified_at: '2026-08-08 23:44:13'
 parent_title: Was Gabinetto RS/33 a Real Secret UFO Unit? | Magenta UFO
 parent_permalink: /rs-33/
 parent_nav_short_title: RS 33

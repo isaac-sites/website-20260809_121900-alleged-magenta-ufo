@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-marconi/
 description: Focused pages that expand on Marconi.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_marconi_rs33_claim_435775
 parent_title: Marconi | Alleged Magenta UFO

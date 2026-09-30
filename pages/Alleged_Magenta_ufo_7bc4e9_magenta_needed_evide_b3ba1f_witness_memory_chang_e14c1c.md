@@ -289,6 +289,7 @@ prev_link:
   short_title: Timeline
   heading_title: Rebuilding the Magenta Crash Timeline
 date: '2026-08-09 12:02:03 '
+last_modified_at: '2026-08-09 12:02:03 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_witness_memory_chang_e14c1c-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_witness_memory_chang_e14c1c-Illustration-1.webp

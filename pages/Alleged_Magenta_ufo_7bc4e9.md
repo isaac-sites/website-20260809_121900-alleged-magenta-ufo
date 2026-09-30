@@ -238,6 +238,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-08 17:25:33'
+last_modified_at: '2026-08-08 17:25:33'
 child_links:
 - basename: Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9
   title: Anonymous Papers | Alleged Magenta UFO

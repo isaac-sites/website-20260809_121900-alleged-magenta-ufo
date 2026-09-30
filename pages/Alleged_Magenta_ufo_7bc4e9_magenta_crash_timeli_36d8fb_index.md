@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-magenta/
 description: Focused pages that expand on Crash Timeline.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_magenta_crash_timeli_36d8fb
 parent_title: Crash Timeline
