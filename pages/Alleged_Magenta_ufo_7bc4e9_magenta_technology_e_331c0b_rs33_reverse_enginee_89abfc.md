@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 05:25:46'
+last_modified_at: '2026-08-09 05:25:46'
 parent_title: Was the Alleged Magenta Craft Secretly Studied? | Alleged Magenta UFO
 parent_permalink: /tech-claims/
 parent_nav_short_title: Tech Claims

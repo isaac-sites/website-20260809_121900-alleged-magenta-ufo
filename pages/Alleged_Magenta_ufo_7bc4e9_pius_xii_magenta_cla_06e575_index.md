@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-pius-xii/
 description: Focused pages that expand on Pius XII.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_pius_xii_magenta_cla_06e575
 parent_title: Pius XII | Alleged Magenta UFO

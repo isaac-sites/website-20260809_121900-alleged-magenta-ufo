@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-anonymous/
 description: Focused pages that expand on Anonymous Papers.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_anonymous_magenta_do_e061e9
 parent_title: Anonymous Papers | Alleged Magenta UFO

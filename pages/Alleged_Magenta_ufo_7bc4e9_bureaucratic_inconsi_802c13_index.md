@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9/
 description: Focused pages that expand on Paperwork Flaws.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_bureaucratic_inconsi_802c13
 parent_title: Paperwork Flaws | Alleged Magenta UFO

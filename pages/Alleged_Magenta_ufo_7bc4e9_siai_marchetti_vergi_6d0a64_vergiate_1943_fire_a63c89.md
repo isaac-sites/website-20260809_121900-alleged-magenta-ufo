@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 01:42:57'
+last_modified_at: '2026-08-09 01:42:57'
 parent_title: Was the Alleged Craft Hidden at Vergiate? | Alleged Magenta UFO
 parent_permalink: /vergiate-works/
 parent_nav_short_title: Vergiate Works

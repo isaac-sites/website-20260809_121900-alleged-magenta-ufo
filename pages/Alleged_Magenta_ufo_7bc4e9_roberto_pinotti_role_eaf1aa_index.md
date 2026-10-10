@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-roberto/
 description: Focused pages that expand on Pinotti.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_roberto_pinotti_role_eaf1aa
 parent_title: Pinotti | Alleged Magenta UFO

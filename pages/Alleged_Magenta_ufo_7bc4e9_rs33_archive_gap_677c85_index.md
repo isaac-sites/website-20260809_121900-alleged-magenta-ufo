@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-rs33/
 description: Focused pages that expand on Archive Gap.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_rs33_archive_gap_677c85
 parent_title: Archive Gap | Alleged Magenta UFO

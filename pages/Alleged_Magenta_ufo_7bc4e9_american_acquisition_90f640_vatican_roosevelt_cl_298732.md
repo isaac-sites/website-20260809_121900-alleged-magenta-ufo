@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 06:36:44'
+last_modified_at: '2026-08-09 06:36:44'
 parent_title: Did the United States Take Possession of the Craft? | Alleged Magenta UFO
 parent_permalink: /us-transfer/
 parent_nav_short_title: US Transfer

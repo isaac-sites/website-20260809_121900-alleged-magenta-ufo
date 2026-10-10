@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 04:12:34'
+last_modified_at: '2026-08-09 04:12:34'
 parent_title: Where Is the Alleged Magenta Wreckage Today? | Alleged Magenta UFO
 parent_permalink: /missing-wreckage/
 parent_nav_short_title: Missing Wreckage

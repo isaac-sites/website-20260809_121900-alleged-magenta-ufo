@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 02:07:40'
+last_modified_at: '2026-08-09 02:07:40'
 parent_title: How Anonymous Papers Created the Modern Magenta Case | Alleged Magenta UFO
 parent_permalink: /anonymous-papers/
 parent_nav_short_title: Anonymous Papers

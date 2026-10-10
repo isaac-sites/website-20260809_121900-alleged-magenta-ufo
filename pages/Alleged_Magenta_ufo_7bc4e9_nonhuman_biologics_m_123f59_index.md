@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-nonhuman/
 description: Focused pages that expand on Biologics Claim.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_nonhuman_biologics_m_123f59
 parent_title: Biologics Claim | Alleged Magenta UFO

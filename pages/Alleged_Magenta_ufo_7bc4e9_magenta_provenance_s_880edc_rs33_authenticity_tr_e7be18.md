@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-09 09:39:38'
+last_modified_at: '2026-08-09 09:39:38'
 parent_title: What Would Make the Magenta Documents Trustworthy? | Alleged Magenta UFO
 parent_permalink: /provenance/
 parent_nav_short_title: Provenance

@@ -289,6 +289,7 @@ next_link:
   short_title: Newspapers
   heading_title: What Did 1933 Newspapers Report Near Magenta?
 date: '2026-08-09 12:01:59 '
+last_modified_at: '2026-08-09 12:01:59 '
 header:
   og_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_magenta_evidence_gap_1b0a23-Illustration-1-social.jpg
   preview_image: /assets/images/Alleged_Magenta_ufo_7bc4e9_magenta_needed_evide_b3ba1f_magenta_evidence_gap_1b0a23-Illustration-1.webp

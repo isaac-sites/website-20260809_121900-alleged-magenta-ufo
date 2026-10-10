@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-italy/
 description: Focused pages that expand on German Links.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_italy_germany_ufo_li_561aa8
 parent_title: German Links | Alleged Magenta UFO

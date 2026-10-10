@@ -9,6 +9,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alleged-magenta-ufo-7bc4e9-missing/
 description: Focused pages that expand on Missing Wreckage.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alleged_Magenta_ufo_7bc4e9_missing_magenta_wrec_9eb811
 parent_title: Missing Wreckage | Alleged Magenta UFO
